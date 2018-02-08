@@ -44,3 +44,7 @@ function anagrammedName(name) {
 		return name;
 	}
 }
+
+function onClick(){
+    
+}
